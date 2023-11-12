@@ -1,6 +1,7 @@
 # frontend-collection
 
-> 最後更新日期 2023/11/11 20:30
+> 2023最新前端學習資源(論壇/網站/BLOG/教學/週刊/面試題)
+> 最後更新日期 2023/11/12 15:13
 
 我在整理瀏覽器書籤的時候發現很多以前收藏的網站、教程打不開了，有些甚至都還沒看過，實屬可惜。所以想藉這次進行一個大整理，督促自己照著清單慢慢啃完，別等到失效了都還沒看，順便把自己收藏的一些內容分享出來。
 
@@ -24,6 +25,7 @@
 | V2EX | [https://www.v2ex.com/](https://www.v2ex.com/) | 簡體中文 |
 | OSCHINA | [https://www.oschina.net/](https://www.oschina.net/) | 簡體中文 |
 | 博客園 | [https://www.cnblogs.com/](https://www.cnblogs.com/) | 簡體中文 |
+| InfoQ | [https://www.infoq.cn/topic/1208](https://www.infoq.cn/topic/1208) | 簡體中文 |
 | Medium | [https://medium.com/](https://medium.com/) | 英文 |
 | Hacker News | [https://news.ycombinator.com/news](https://news.ycombinator.com/news) | 英文 |
 | EchoJS | [https://www.echojs.com/](https://www.echojs.com/) | 英文 |
@@ -35,30 +37,32 @@
  
 ## Weekly
 
-- 斷更超過半年的不會放進來。
+- 斷更超過一年的不會放進來。
+- 有⭐標示的是我自己平時會看的。
 
 | 名稱 | 網址 | 備註 |
 |---|---|---|
-| JS Weekly | [https://javascriptweekly.com/](https://javascriptweekly.com/) | 英文 |
-| TypeScript Weekly | [https://typescript-weekly.com/](https://typescript-weekly.com/) | - |
+| ⭐JS Weekly | [https://javascriptweekly.com/](https://javascriptweekly.com/) | 英文 |
 | ECMAScript News | [https://ecmascript.news/](https://ecmascript.news/) | - |
-| Mobile Dev Weekly | [https://mobiledevweekly.com/](https://mobiledevweekly.com/) | - |
+| Best of JS | [https://bestofjs.org/](https://bestofjs.org/) | - |
 | CSS Weekly | [https://css-weekly.com/](https://css-weekly.com/) | - |
 | Web design weekly | [https://web-design-weekly.com/#](https://web-design-weekly.com/#) | - |
-| React Status | [https://react.statuscode.com/](https://react.statuscode.com/) | - |
-| React Newsletter | [https://reactnewsletter.com/issues](https://reactnewsletter.com/issues) | - |
-| Hacker News Summary | [https://hackernews.betacat.io/](https://hackernews.betacat.io/) | 使用 ChatGPT 將 Hacker News 每條新聞用一兩句話總結出來。 |
+| ⭐React Status | [https://react.statuscode.com/](https://react.statuscode.com/) | - |
+| ⭐React Newsletter | [https://reactnewsletter.com/issues](https://reactnewsletter.com/issues) | - |
+| ⭐Hacker News Summary | [https://hackernews.betacat.io/](https://hackernews.betacat.io/) | 使用 ChatGPT 將 Hacker News 每條新聞用一兩句話總結出來。 |
 | Frontend Focus | [https://frontendfoc.us/](https://frontendfoc.us/) | 英文 |
 | Frontend Weekly | [https://frontendweekly.co/](https://frontendweekly.co/) | - |
 | Weekly Vue & Nuxt News | [https://weekly-vue.news/](https://weekly-vue.news/) | - |
-| Angular Weekly | [https://angularweekly.substack.com/](https://angularweekly.substack.com/) | - |
+| Angular Weekly | [https://angularweekly.substack.com/](https://angularweekly.substack.com/) | 最後一次發布是2023年5月 |
 | NEXT.JS Weekly | [https://nextjsweekly.com/](https://nextjsweekly.com/) | - |
-| 前端食堂 | [https://hungryturbo.zhubai.love/](https://hungryturbo.zhubai.love/) | 中文 |
-| 阮一峰科技愛好者周刊 | [https://www.ruanyifeng.com/blog/weekly/](https://www.ruanyifeng.com/blog/weekly/) | 周刊內容滿廣泛的，不只包含前端 |
-| MDH Weekly | [https://mdhweekly.com/weekly](https://mdhweekly.com/weekly) | 阿里 & 蚂蚁 10 年 + 老前端整理的前端周刊 |
+| ⭐前端食堂 | [https://hungryturbo.zhubai.love/](https://hungryturbo.zhubai.love/) | 中文 |
+| ⭐阮一峰科技愛好者周刊 | [https://www.ruanyifeng.com/blog/weekly/](https://www.ruanyifeng.com/blog/weekly/) | 周刊內容滿廣泛的，不只包含前端 |
+| ⭐MDH Weekly | [https://mdhweekly.com/weekly](https://mdhweekly.com/weekly) | 阿里 & 蚂蚁 10 年 + 老前端整理的前端周刊 |
 | Frontend Weekly Tokyo | [https://frontendweekly.tokyo/](https://frontendweekly.tokyo/) | 日文 |
+| ⭐Github trending | [https://github.com/trending](https://github.com/trending) | 關注Github每天最流行的庫 |
 
 ## BLOG
+
 | 名稱 | 網址 | 備註 |
 |---|---|---|
 | 阮一峰的网络日志 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) | 阮老師的週刊和教程都有品質保證 |
@@ -111,50 +115,56 @@
 | Mike Huang | [https://mike-huang-mikank.medium.com/](https://mike-huang-mikank.medium.com/) |  |
 | H.Ching | [https://hching-lin.medium.com/](https://hching-lin.medium.com/) | #UI/UX |
 | The Will Will Web | [https://blog.miniasp.com/](https://blog.miniasp.com/) | #UI/UX |
+| Edureka | [https://www.edureka.co/blog/category/front-end-web-development/](https://www.edureka.co/blog/category/front-end-web-development/) | |
+| Here.There. | [https://godbasin.github.io/](https://godbasin.github.io/) | |
 
 ## Tutorial
+
+- 這部分的基本上都是我看過或者看完的，所以都很推薦，用❗表示基礎必讀。
 
 | 名稱 | 網址 | 備註 |
 |---|---|---|
 | web.dev | [https://web.dev/](https://web.dev/) | Chrome團隊寫的Web指南 |
-| 现代 JavaScript 教程 | [https://zh.javascript.info/](https://zh.javascript.info/) | 推薦，免費 JavaScript 教學電子書，講解的很詳細、淺顯易懂。 |
+| ❗现代 JavaScript 教程 | [https://zh.javascript.info/](https://zh.javascript.info/) | 推薦，免費 JavaScript 教學電子書，講解的很詳細、淺顯易懂。 |
 | JavaScript Promise迷你书 | [http://liubin.org/promises-book/#introduction](http://liubin.org/promises-book/#introduction) |  |
-| ECMAScript6 入門 | [https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/) | 阮老師寫的 ES6 教程。 |
+| ❗ECMAScript6 入門 | [https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/) | 阮老師寫的 ES6 教程。 |
 | JavaScript教程 | [https://wangdoc.com/javascript/](https://wangdoc.com/javascript/) | 推薦，阮老師寫的 JS 教程。 |
-| JavaScript 演算法與資料結構 | [https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-TW.md](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-TW.md) |  |
+| ❗JavaScript 演算法與資料結構 | [https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-TW.md](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-TW.md) |  |
 | JavaScript: Understanding the Weird Parts | [https://www.udemy.com/course/understand-javascript/](https://www.udemy.com/course/understand-javascript/) | 付費影片課程 |
-| What the heck is the event loop anyway? | [https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ) |  |
+| ❗What the heck is the event loop anyway? | [https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ) |  |
 | Eloquent JavaScript | [https://eloquentjavascript.net/](https://eloquentjavascript.net/) |  |
 | JavaScript for impatient programmers | [https://exploringjs.com/impatient-js/toc.html](https://exploringjs.com/impatient-js/toc.html) |  |
-| TypeScript 教程 | [https://wangdoc.com/typescript/](https://wangdoc.com/typescript/) | 推薦，阮老師 2023 剛寫完的 TS 教程。 |
-| TypeScript 入門教程 | [https://ts.xcatliu.com/](https://ts.xcatliu.com/) | 講得稍微比較淺的 TS 教程 |
-| TypeScript 新手指南 | [https://willh.gitbook.io/typescript-tutorial/](https://willh.gitbook.io/typescript-tutorial/) | 從 JavaScript 程式設計師的角度總結思考，循序漸進的理解 TypeScript。 |
+| ❗TypeScript 教程 | [https://wangdoc.com/typescript/](https://wangdoc.com/typescript/) | 推薦，阮老師 2023 剛寫完的 TS 教程。 |
+| ❗TypeScript 入門教程 | [https://ts.xcatliu.com/](https://ts.xcatliu.com/) | 講得稍微比較淺的 TS 教程 |
 | 深入理解TypeScript | [https://jkchao.github.io/typescript-book-chinese/#why](https://jkchao.github.io/typescript-book-chinese/#why) | 是TypeScript Deep Dive的中譯版，內容涉及比較多原理的部分 |
 | The Concise TypeScript Book | [https://github.com/gibbok/typescript-book](https://github.com/gibbok/typescript-book) | 比較全面的TS教程，有中文版 |
 | Type-challenges | [https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md) | TS的型別題目挑戰 |
 | Total TypeScript | [https://www.totaltypescript.com/articles](https://www.totaltypescript.com/articles) |  |
+| 深入現代前端開發 | [https://f2e.kalan.dev/](https://f2e.kalan.dev/) | |
 | 小林coding | [https://xiaolincoding.com/](https://xiaolincoding.com/) | 圖解計算機網絡、作業系統、資料庫、Redis |
-| 尚硅谷React教程（2022加更，B站超火react教程 | [https://www.bilibili.com/video/BV1wy4y1D7JT](https://www.bilibili.com/video/BV1wy4y1D7JT) | 我的 React 學習啟蒙 |
-| 從 Hooks 開始，讓你的網頁 React 起來 | [https://ithelp.ithome.com.tw/users/20103315/ironman/2668](https://ithelp.ithome.com.tw/users/20103315/ironman/2668) | 我的 React 啟蒙之一 |
+| ❗尚硅谷React教程（2022加更，B站超火react教程 | [https://www.bilibili.com/video/BV1wy4y1D7JT](https://www.bilibili.com/video/BV1wy4y1D7JT) | 我的 React 學習啟蒙 |
+| ❗從 Hooks 開始，讓你的網頁 React 起來 | [https://ithelp.ithome.com.tw/users/20103315/ironman/2668](https://ithelp.ithome.com.tw/users/20103315/ironman/2668) | 我的 React 啟蒙之一 |
 | Build your own React | [https://pomb.us/build-your-own-react/](https://pomb.us/build-your-own-react/) | 基於 React 16.8 |
 | 30 天擁有一套自己手刻的 React UI 元件庫 | [https://ithelp.ithome.com.tw/users/20111490/ironman/3999](https://ithelp.ithome.com.tw/users/20111490/ironman/3999) |  |
 | What happens when... | [https://github.com/alex/what-happens-when#what-happens-when](https://github.com/alex/what-happens-when#what-happens-when) | 試圖回答 當你在瀏覽器中輸入 google.com 並按回車鍵時會發生什麼？ |
-| 自适应网页设计（Responsive Web Design） | [https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html](https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html) |  |
+| ❗自适应网页设计（Responsive Web Design） | [https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html](https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html) |  |
 | 演算法教學 | [https://web.ntnu.edu.tw/~algo/](https://web.ntnu.edu.tw/~algo/) | 台灣師範大學的演算法教學 |
-| 数据结构与算法 系列教程（笔记） | [https://zq99299.github.io/dsalg-tutorial/](https://zq99299.github.io/dsalg-tutorial/) |  |
-| Hello算法 | [https://www.hello-algo.com/](https://www.hello-algo.com/) | 圖解演算法 |
-| GreatFrontEnd | [https://www.greatfrontend.com/](https://www.greatfrontend.com/) | 前端的 leetcode |
-| MDN | [https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/) |  |
+| ❗Hello算法 | [https://www.hello-algo.com/](https://www.hello-algo.com/) | 圖解演算法 |
+| ❗MDN | [https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/) |  |
 | Inside look at modern web browser (part 1) | [https://developer.chrome.com/blog/inside-browser-part1/](https://developer.chrome.com/blog/inside-browser-part1/) |  |
 | How browsers work | [https://web.dev/articles/howbrowserswork](https://web.dev/articles/howbrowserswork) |  |
 | Vue 系列教學影片 | [https://www.youtube.com/@AlexOtakuWhat/playlists](https://www.youtube.com/@AlexOtakuWhat/playlists) |  |
 | 重新認識 Vue.js | [https://book.vue.tw/](https://book.vue.tw/) |  |
-| 金魚都能懂的網頁設計入門 | [https://www.youtube.com/playlist?list=PLqivELodHt3iL9PgGHg0_EF86FwdiqCre](https://www.youtube.com/playlist?list=PLqivELodHt3iL9PgGHg0_EF86FwdiqCre) |  |
-| 金魚都能懂的網頁切版教學 | [https://www.youtube.com/playlist?list=PLqivELodHt3hxeuLX8PYaI8u1GcDaBoJo](https://www.youtube.com/playlist?list=PLqivELodHt3hxeuLX8PYaI8u1GcDaBoJo) |  |
-| 金魚都能懂的 CSS 選取器 - 金魚都能懂了你還怕學不會嗎 | [https://ithelp.ithome.com.tw/users/20112550/ironman/2799](https://ithelp.ithome.com.tw/users/20112550/ironman/2799) |  |
-| Learn to Code HTML & CSS | [https://learn.shayhowe.com/html-css/](https://learn.shayhowe.com/html-css/) |  |
-| 30天精通Git版本控管 | [https://ithelp.ithome.com.tw/users/20004901/ironman/525](https://ithelp.ithome.com.tw/users/20004901/ironman/525) |  |
+| ❗金魚都能懂的網頁設計入門 | [https://www.youtube.com/playlist?list=PLqivELodHt3iL9PgGHg0_EF86FwdiqCre](https://www.youtube.com/playlist?list=PLqivELodHt3iL9PgGHg0_EF86FwdiqCre) |  |
+| ❗金魚都能懂的網頁切版教學 | [https://www.youtube.com/playlist?list=PLqivELodHt3hxeuLX8PYaI8u1GcDaBoJo](https://www.youtube.com/playlist?list=PLqivELodHt3hxeuLX8PYaI8u1GcDaBoJo) |  |
+| ❗金魚都能懂的 CSS 選取器 - 金魚都能懂了你還怕學不會嗎 | [https://ithelp.ithome.com.tw/users/20112550/ironman/2799](https://ithelp.ithome.com.tw/users/20112550/ironman/2799) |  |
+| ❗Learn to Code HTML & CSS | [https://learn.shayhowe.com/html-css/](https://learn.shayhowe.com/html-css/) |  |
+| ❗30天精通Git版本控管 | [https://ithelp.ithome.com.tw/users/20004901/ironman/525](https://ithelp.ithome.com.tw/users/20004901/ironman/525) |  |
 | Beyond XSS：探索網頁前端資安宇宙 | [https://ithelp.ithome.com.tw/users/20091346/ironman/6155](https://ithelp.ithome.com.tw/users/20091346/ironman/6155) |  |
+| Docker — 从入门到实践 | [https://vuepress.mirror.docker-practice.com/](https://vuepress.mirror.docker-practice.com/) |  |
+| 大厂机密！30 个提升团队研发效能的锦囊 | [https://reurl.cc/kaW8qn](https://reurl.cc/kaW8qn) |  |
+| 慕課課程 | [https://www.imooc.com/wiki/](https://www.imooc.com/wiki/) |  |
+| 带你入门前端工程 | [https://woai3c.gitee.io/introduction-to-front-end-engineering/](https://woai3c.gitee.io/introduction-to-front-end-engineering/) |  |
 
 ## Patterns & Cheat sheet
 
@@ -178,3 +188,31 @@
 | Google JSON Style Guide | [https://google.github.io/styleguide/jsoncstyleguide.xml](https://google.github.io/styleguide/jsoncstyleguide.xml) |  |
 | W3C中英對照表 | [https://w3c-html-ig-zh.github.io/w3c-glossary/](https://w3c-html-ig-zh.github.io/w3c-glossary/) |  |
 | HTML Standard | [https://whatwg-cn.github.io/html/](https://whatwg-cn.github.io/html/) | 是簡體中文版本，僅供參考 |
+| 前端工程化搭建指南 | [https://lousanpang.github.io/fe-workflow/docs/standard-directory](https://lousanpang.github.io/fe-workflow/docs/standard-directory) |  |
+| Airbnb JS 程式碼規範 | [https://github.com/BingKui/javascript-zh](https://github.com/BingKui/javascript-zh) |  |
+
+## Interview
+
+- 這部分的內容比較需要關注"時效性"，所以太多年沒更新的我就不會放在這。
+- 用⭐標示的表示很推薦。
+
+| 名稱 | 網址 | 備註 |
+|---|---|---|
+| ⭐JavaScript Interview Questions & Answers | https://github.com/sudheerj/javascript-interview-questions | 很全面的 JS 面試題 |
+| ⭐reactjs-interview-questions | https://github.com/sudheerj/reactjs-interview-questions#react-interview-questions--answers | 很全面的 React 面試題 |
+| ⭐front-end-interview-handbook | https://github.com/yangshun/front-end-interview-handbook#front-end-interview-handbook |  |
+| ⭐GreatFrontEnd | https://www.greatfrontend.com/ | 前端的 leetcode |
+| ⭐Front-end-Developer-Interview-Questions | https://github.com/h5bp/Front-end-Developer-Interview-Questions | 許多人推薦的前端面試題庫，58.1k stars |
+| ⭐2023 年最新最全的 React 面试题 | https://www.xiabingbao.com/post/react/react-interview-rqoyyx.html |  |
+| 一文带你梳理React面试题（2023年版本） | https://juejin.cn/post/7182382408807743548 | 滿新的，有包含 React18 的內容 |
+| 做了一份前端面试复习计划，保熟～ | https://juejin.cn/post/7061588533214969892 |  |
+| 2021年前端面试必读文章 | https://juejin.cn/post/6844904116339261447 |  |
+| 前端知識每日3+1 | http://www.h-camel.com/index.html | 每天都會有一題前端面試題，可以在評論區發布自己的答案，可以查看之前的面試題(5000多題)。不過網站沒有SSL 而且加載的有點慢 |
+| 面試前端工程師被問到的問題 (React 前端工程師)  | https://www.youtube.com/watch?v=IIhVKpp37c0 |  |
+| web前端面试 - 面试官系列 | https://vue3js.cn/interview/ |  |
+| 前端面試題寶典 | https://fe.ecool.fun/topic-list | 題目滿多的，有實戰題也有理論題 |
+| BigFrontend.dev | https://bigfrontend.dev/ | 題目不算多，框架的題目有點偏基礎 |
+| 前端面試問題 | https://hackmd.io/@mingjunlu/front-end-interview-questions | 沒有答案 |
+| JavaScript、ES6 高频重点面试题 | https://www.arryblog.com/interview/js/ | 2023最新，網站中還有其他面試題 |
+| 五年前端三年面试 | https://fe.azhubaby.com/ | 2021年的內容，可以參考一下 |
+| Explain this 前端面試詳解 | https://www.explainthis.io/zh-hant/swe/interview | 內容比較少，不過是繁體中文的 |
