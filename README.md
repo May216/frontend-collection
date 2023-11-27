@@ -35,7 +35,7 @@
 | Quora | [https://www.quora.com/](https://www.quora.com/) | 英文 |
 | Stack Overflow | [https://stackoverflow.com/](https://stackoverflow.com/) | 英文 |
  
-## Weekly
+## Weekly/News/Trending
 
 - 斷更超過一年的不會放進來。
 - 有⭐標示的是我自己平時會看的。
@@ -55,11 +55,14 @@
 | Weekly Vue & Nuxt News | [https://weekly-vue.news/](https://weekly-vue.news/) | - |
 | Angular Weekly | [https://angularweekly.substack.com/](https://angularweekly.substack.com/) | 最後一次發布是2023年5月 |
 | NEXT.JS Weekly | [https://nextjsweekly.com/](https://nextjsweekly.com/) | - |
-| ⭐前端食堂 | [https://hungryturbo.zhubai.love/](https://hungryturbo.zhubai.love/) | 中文 |
+| iThome | [https://www.ithome.com.tw/](https://www.ithome.com.tw/	)	 | 繁體中文 |
+| TechNews	| [https://technews.tw/](https://technews.tw/	)	 | 繁體中文 |
+| ⭐前端食堂 | [https://hungryturbo.zhubai.love/](https://hungryturbo.zhubai.love/) | 簡體中文 |
 | ⭐阮一峰科技愛好者周刊 | [https://www.ruanyifeng.com/blog/weekly/](https://www.ruanyifeng.com/blog/weekly/) | 周刊內容滿廣泛的，不只包含前端 |
 | ⭐MDH Weekly | [https://mdhweekly.com/weekly](https://mdhweekly.com/weekly) | 阿里 & 蚂蚁 10 年 + 老前端整理的前端周刊 |
 | Frontend Weekly Tokyo | [https://frontendweekly.tokyo/](https://frontendweekly.tokyo/) | 日文 |
 | ⭐Github trending | [https://github.com/trending](https://github.com/trending) | 關注Github每天最流行的庫 |
+| ⭐HelloGitHub | [https://github.com/521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 簡體中文 |
 
 ## BLOG
 
@@ -117,6 +120,11 @@
 | The Will Will Web | [https://blog.miniasp.com/](https://blog.miniasp.com/) | #UI/UX |
 | Edureka | [https://www.edureka.co/blog/category/front-end-web-development/](https://www.edureka.co/blog/category/front-end-web-development/) | |
 | Here.There. | [https://godbasin.github.io/](https://godbasin.github.io/) | |
+| Ashlee M Boyer | [https://ashleemboyer.com/](https://ashleemboyer.com/) | #Accessbility #CSS |
+| Daniel Berryhill | [https://medium.com/@dberryhill](https://medium.com/@dberryhill) | #Accessibility #UI/UX |
+| UX Movement | [https://uxmovement.medium.com/](https://uxmovement.medium.com/) | #UI/UX |
+| Bas Wallet | [https://medium.com/@baswallet](https://medium.com/@baswallet) | #UI/UX |
+| Coding Beauty | [https://codingbeauty.medium.com](https://codingbeauty.medium.com) | #JS |
 
 ## Tutorial
 
@@ -134,6 +142,8 @@
 | ❗What the heck is the event loop anyway? | [https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ) |  |
 | Eloquent JavaScript | [https://eloquentjavascript.net/](https://eloquentjavascript.net/) |  |
 | JavaScript for impatient programmers | [https://exploringjs.com/impatient-js/toc.html](https://exploringjs.com/impatient-js/toc.html) |  |
+| Every Crazy Thing JavaScript Does	 | [https://www.codingbeautydev.com/crazy-js-book	](https://www.codingbeautydev.com/crazy-js-book) |  |
+| 50 Projects in 50 Days - HTML/CSS and JavaScript | [https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) |  |
 | ❗TypeScript 教程 | [https://wangdoc.com/typescript/](https://wangdoc.com/typescript/) | 推薦，阮老師 2023 剛寫完的 TS 教程。 |
 | ❗TypeScript 入門教程 | [https://ts.xcatliu.com/](https://ts.xcatliu.com/) | 講得稍微比較淺的 TS 教程 |
 | 深入理解TypeScript | [https://jkchao.github.io/typescript-book-chinese/#why](https://jkchao.github.io/typescript-book-chinese/#why) | 是TypeScript Deep Dive的中譯版，內容涉及比較多原理的部分 |
@@ -146,6 +156,7 @@
 | ❗從 Hooks 開始，讓你的網頁 React 起來 | [https://ithelp.ithome.com.tw/users/20103315/ironman/2668](https://ithelp.ithome.com.tw/users/20103315/ironman/2668) | 我的 React 啟蒙之一 |
 | Build your own React | [https://pomb.us/build-your-own-react/](https://pomb.us/build-your-own-react/) | 基於 React 16.8 |
 | 30 天擁有一套自己手刻的 React UI 元件庫 | [https://ithelp.ithome.com.tw/users/20111490/ironman/3999](https://ithelp.ithome.com.tw/users/20111490/ironman/3999) |  |
+| 图解 React 源码系列 | [https://github.com/7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) | React 17.0.2 原始碼圖解 |
 | What happens when... | [https://github.com/alex/what-happens-when#what-happens-when](https://github.com/alex/what-happens-when#what-happens-when) | 試圖回答 當你在瀏覽器中輸入 google.com 並按回車鍵時會發生什麼？ |
 | ❗自适应网页设计（Responsive Web Design） | [https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html](https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html) |  |
 | 演算法教學 | [https://web.ntnu.edu.tw/~algo/](https://web.ntnu.edu.tw/~algo/) | 台灣師範大學的演算法教學 |
@@ -159,12 +170,17 @@
 | ❗金魚都能懂的網頁切版教學 | [https://www.youtube.com/playlist?list=PLqivELodHt3hxeuLX8PYaI8u1GcDaBoJo](https://www.youtube.com/playlist?list=PLqivELodHt3hxeuLX8PYaI8u1GcDaBoJo) |  |
 | ❗金魚都能懂的 CSS 選取器 - 金魚都能懂了你還怕學不會嗎 | [https://ithelp.ithome.com.tw/users/20112550/ironman/2799](https://ithelp.ithome.com.tw/users/20112550/ironman/2799) |  |
 | ❗Learn to Code HTML & CSS | [https://learn.shayhowe.com/html-css/](https://learn.shayhowe.com/html-css/) |  |
+| 30diasDeCSS | [https://github.com/MilenaCarecho/30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) |  |
+| CSS Protips | [https://github.com/AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) |  |
+| You dont need javascript | [https://github.com/you-dont-need/You-Dont-Need-JavaScript/tree/master](https://github.com/you-dont-need/You-Dont-Need-JavaScript/tree/master) | 有些看起來需要 JS 才能實現的功能以純 CSS 實現 |
 | ❗30天精通Git版本控管 | [https://ithelp.ithome.com.tw/users/20004901/ironman/525](https://ithelp.ithome.com.tw/users/20004901/ironman/525) |  |
 | Beyond XSS：探索網頁前端資安宇宙 | [https://ithelp.ithome.com.tw/users/20091346/ironman/6155](https://ithelp.ithome.com.tw/users/20091346/ironman/6155) |  |
 | Docker — 从入门到实践 | [https://vuepress.mirror.docker-practice.com/](https://vuepress.mirror.docker-practice.com/) |  |
 | 大厂机密！30 个提升团队研发效能的锦囊 | [https://reurl.cc/kaW8qn](https://reurl.cc/kaW8qn) |  |
 | 慕課課程 | [https://www.imooc.com/wiki/](https://www.imooc.com/wiki/) |  |
 | 带你入门前端工程 | [https://woai3c.gitee.io/introduction-to-front-end-engineering/](https://woai3c.gitee.io/introduction-to-front-end-engineering/) |  |
+| 计算机科学速成课 🔥 2018年5月1号 - 全40集完结撒花 | [https://github.com/1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) |  |
+| 搜索引擎原理 | [https://github.com/wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine) | 小紅書演算法工程師所寫的搜索引擎原理 |
 
 ## Patterns & Cheat sheet
 
@@ -190,6 +206,7 @@
 | HTML Standard | [https://whatwg-cn.github.io/html/](https://whatwg-cn.github.io/html/) | 是簡體中文版本，僅供參考 |
 | 前端工程化搭建指南 | [https://lousanpang.github.io/fe-workflow/docs/standard-directory](https://lousanpang.github.io/fe-workflow/docs/standard-directory) |  |
 | Airbnb JS 程式碼規範 | [https://github.com/BingKui/javascript-zh](https://github.com/BingKui/javascript-zh) |  |
+| Design patterns for humans | [https://github.com/kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | 用普通人也能理解的方式說明設計模式 |
 
 ## Interview
 
