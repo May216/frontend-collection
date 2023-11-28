@@ -1,9 +1,7 @@
-# frontend-collection
+# 免費前端學習資源合集
 
-> 2023最新前端學習資源(論壇/網站/BLOG/教學/週刊/面試題)
-> 最後更新日期 2023/11/27 20:43
-
-我在整理瀏覽器書籤的時候發現很多以前收藏的網站、教程打不開了，有些甚至都還沒看過，實屬可惜。所以想藉這次進行一個大整理，督促自己照著清單慢慢啃完，別等到失效了都還沒看，順便把自己收藏的一些內容分享出來。
+> 2023最新前端學習資源(社群/趨勢/部落格/教學/週刊/面試題/靈感/工具)
+> 最後更新日期 2023/11/28 15:20
 
 ## Forum/Community
 
@@ -125,6 +123,7 @@
 | UX Movement | [https://uxmovement.medium.com/](https://uxmovement.medium.com/) | #UI/UX |
 | Bas Wallet | [https://medium.com/@baswallet](https://medium.com/@baswallet) | #UI/UX |
 | Coding Beauty | [https://codingbeauty.medium.com](https://codingbeauty.medium.com) | #JS |
+| LEA VEROU | [https://lea.verou.me/](https://lea.verou.me/) | #Web |
 
 ## Tutorial
 
@@ -157,13 +156,14 @@
 | Build your own React | [https://pomb.us/build-your-own-react/](https://pomb.us/build-your-own-react/) | 基於 React 16.8 |
 | 30 天擁有一套自己手刻的 React UI 元件庫 | [https://ithelp.ithome.com.tw/users/20111490/ironman/3999](https://ithelp.ithome.com.tw/users/20111490/ironman/3999) |  |
 | 图解 React 源码系列 | [https://github.com/7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) | React 17.0.2 原始碼圖解 |
-| What happens when... | [https://github.com/alex/what-happens-when#what-happens-when](https://github.com/alex/what-happens-when#what-happens-when) | 試圖回答 當你在瀏覽器中輸入 google.com 並按回車鍵時會發生什麼？ |
-| ❗自适应网页设计（Responsive Web Design） | [https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html](https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html) |  |
+| React with TypeScript | [https://www.totaltypescript.com/tutorials/react-with-typescript](https://www.totaltypescript.com/tutorials/react-with-typescript) | React+TS免費課程 |
+| ❗What happens when... | [https://github.com/alex/what-happens-when#what-happens-when](https://github.com/alex/what-happens-when#what-happens-when) | 試圖回答 當你在瀏覽器中輸入 google.com 並按回車鍵時會發生什麼？ |
+| 自适应网页设计（Responsive Web Design） | [https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html](https://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html) |  |
 | 演算法教學 | [https://web.ntnu.edu.tw/~algo/](https://web.ntnu.edu.tw/~algo/) | 台灣師範大學的演算法教學 |
 | ❗Hello算法 | [https://www.hello-algo.com/](https://www.hello-algo.com/) | 圖解演算法 |
 | ❗MDN | [https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/) |  |
 | Inside look at modern web browser (part 1) | [https://developer.chrome.com/blog/inside-browser-part1/](https://developer.chrome.com/blog/inside-browser-part1/) |  |
-| How browsers work | [https://web.dev/articles/howbrowserswork](https://web.dev/articles/howbrowserswork) |  |
+| ❗How browsers work | [https://web.dev/articles/howbrowserswork](https://web.dev/articles/howbrowserswork) |  |
 | Vue 系列教學影片 | [https://www.youtube.com/@AlexOtakuWhat/playlists](https://www.youtube.com/@AlexOtakuWhat/playlists) |  |
 | 重新認識 Vue.js | [https://book.vue.tw/](https://book.vue.tw/) |  |
 | ❗金魚都能懂的網頁設計入門 | [https://www.youtube.com/playlist?list=PLqivELodHt3iL9PgGHg0_EF86FwdiqCre](https://www.youtube.com/playlist?list=PLqivELodHt3iL9PgGHg0_EF86FwdiqCre) |  |
@@ -179,8 +179,11 @@
 | 大厂机密！30 个提升团队研发效能的锦囊 | [https://reurl.cc/kaW8qn](https://reurl.cc/kaW8qn) |  |
 | 慕課課程 | [https://www.imooc.com/wiki/](https://www.imooc.com/wiki/) |  |
 | 带你入门前端工程 | [https://woai3c.gitee.io/introduction-to-front-end-engineering/](https://woai3c.gitee.io/introduction-to-front-end-engineering/) |  |
-| 计算机科学速成课 🔥 2018年5月1号 - 全40集完结撒花 | [https://github.com/1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) |  |
+| ❗计算机科学速成课 🔥 2018年5月1号 - 全40集完结撒花 | [https://github.com/1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) |  |
 | 搜索引擎原理 | [https://github.com/wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine) | 小紅書演算法工程師所寫的搜索引擎原理 |
+| What is the DOM? A Behind-the-Scenes Guide | [https://www.freecodecamp.org/news/what-is-dom-in-javascript/](https://www.freecodecamp.org/news/what-is-dom-in-javascript/) |  |
+| ❗CS自学指南 | [https://csdiy.wiki/](https://csdiy.wiki/) |  |
+| Learn Git Branching | https://learngitbranching.js.org/?demo=&locale=zh_CN | 通過闖關、動畫的方式學習 Git。 |
 
 ## Patterns & Cheat sheet
 
@@ -221,6 +224,7 @@
 | ⭐GreatFrontEnd | https://www.greatfrontend.com/ | 前端的 leetcode |
 | ⭐Front-end-Developer-Interview-Questions | https://github.com/h5bp/Front-end-Developer-Interview-Questions | 許多人推薦的前端面試題庫，58.1k stars |
 | ⭐2023 年最新最全的 React 面试题 | https://www.xiabingbao.com/post/react/react-interview-rqoyyx.html |  |
+| ⭐如何準備前端面試？超完整經驗分享 | https://www.explainthis.io/zh-hant/career/experience-how-to-prepare-frontend-interview |  |
 | 一文带你梳理React面试题（2023年版本） | https://juejin.cn/post/7182382408807743548 | 滿新的，有包含 React18 的內容 |
 | 做了一份前端面试复习计划，保熟～ | https://juejin.cn/post/7061588533214969892 |  |
 | 2021年前端面试必读文章 | https://juejin.cn/post/6844904116339261447 |  |
@@ -233,3 +237,42 @@
 | JavaScript、ES6 高频重点面试题 | https://www.arryblog.com/interview/js/ | 2023最新，網站中還有其他面試題 |
 | 五年前端三年面试 | https://fe.azhubaby.com/ | 2021年的內容，可以參考一下 |
 | Explain this 前端面試詳解 | https://www.explainthis.io/zh-hant/swe/interview | 內容比較少，不過是繁體中文的 |
+
+## Inspiration
+
+| 名稱 | 網址 | 備註 |
+|---|---|---|
+| Web/App/Email/Others 介面靈感 | https://uxchi.notion.site/881b4c0179a74935a3f607ad3521cdb5 |  |
+| CSS Inspiration -- CSS 靈感 | https://csscoco.com/inspiration/#/ | |
+| Dribbble | https://dribbble.com/ | 全世界設計師各式各樣的設計 |
+| Mobbin | https://mobbin.com/browse/ios/apps | 找尋 UI 設計靈感 |
+| Dark | https://www.dark.design/ | 暗色主題設計靈感參考 |
+| Site inspire | https://www.siteinspire.com/ | 網站UI設計靈感 |
+| App Fuel | https://www.theappfuel.com/ | APP UI/UX 靈感 |
+| What Was IT | https://wwit.design/ | 韓國版Mobbin，分享韓國移動端UI設計靈感，所有應用程式均基於iPhone XS螢幕尺寸(375x812)|
+| UXArchive | https://uxarchive.com/ | 世界流行的 APP UX 趨勢 |
+
+## Tools
+
+| 名稱 | 網址 | 備註 |
+|---|---|---|
+| TableConvert | https://tableconvert.com/ | 將表格以各種格式互相轉換，網站中還有很多其他轉換工具。 |
+| Is it down? | https://downforeveryoneorjustme.com/ | 用於檢查網站是對所有人關閉還是是你自己的問題。 |
+| WeOCR | https://ocr.plantree.me/ocr | 線上的 OCR 工具，支持 jpg, png, bmp, tiff, webp, etc |
+| examor | https://github.com/codeacme17/examor | AI 根據你的筆記為你出題，可用於複習。 |
+| OpenResume | https://github.com/xitanggg/open-resume | 免費快速生成個人履歷。 |
+| memos | https://github.com/usememos/memos | 私人的輕量級筆記工具，使用 Docker 部署。 |
+| mess-reader | https://github.com/ppz-pro/mess-reader | 在線 epub 閱讀器。 |
+| Runno | https://runno.dev/ | 可在網頁中嵌入可運行的程式碼片段，只需要編寫 HTML。 |
+| DamnGood.Tools | https://damngood.tools/tools/chat-pdf | AI 可根據你上傳的 PDF 回答你的問題 |
+| TinyPNG | https://tinypng.com/ | WebP, PNG, JPEG 圖片壓縮工具(一次最多20張，每張最大5MB)。 |
+| picdiet | https://www.picdiet.com/zh-tw | 圖片壓縮工具。用 JS 演算法極速壓縮 80% 的圖片大小，而不損害其品質。 |
+| blush | https://blush.design/zh-CN | 定製插圖工具，下載成 PNG, SVG，與 Figma, Sketch 集成。 |
+| Gradienty | https://gradienty.codes/ | Tailwind 漸層產生器 |
+| APIVault | https://apivault.dev/ | 公開 API 合集 |
+| TDX運輸資料流通服務 | https://tdx.transportdata.tw/ | 台灣交通公開 API |
+| I Don't Care About Commit Message | https://github.com/mefengl/vscode-i-dont-care-about-commit-message | AI 生成 commit message 的 VSCode plugn |
+| Algorithm Visualizer | https://algorithm-visualizer.org/ | 演算法視覺化工具 |
+| CANINCLUDE | https://github.com/CyberLight/caninclude-v2 | HTML 標籤工具，檢查 A 標籤能不能放在 B 標籤之中，以及介紹標籤的用處、兼容性。 |
+| Tailwind helper | https://www.tailwindhelper.com/?ref=producthunt | 透過 GUI 快速生成 Tailwind class。 |
+| Developer Roadmaps | https://roadmap.sh/ | 開發者學習路線圖 |
