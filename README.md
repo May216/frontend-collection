@@ -1,7 +1,7 @@
 # 免費前端學習資源合集
 
 > 2023最新前端學習資源(社群/趨勢/部落格/教學/週刊/面試題/靈感/工具)
-> 最後更新日期 2023/11/28 15:20
+> 最後更新日期 2023/12/06 13:56
 
 ## Forum/Community
 
@@ -61,6 +61,7 @@
 | Frontend Weekly Tokyo | [https://frontendweekly.tokyo/](https://frontendweekly.tokyo/) | 日文 |
 | ⭐Github trending | [https://github.com/trending](https://github.com/trending) | 關注Github每天最流行的庫 |
 | ⭐HelloGitHub | [https://github.com/521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 簡體中文 |
+| Friday Front-End	 | https://fridayfrontend.curated.co/	 | 英文 |
 
 ## BLOG
 
@@ -124,6 +125,13 @@
 | Bas Wallet | [https://medium.com/@baswallet](https://medium.com/@baswallet) | #UI/UX |
 | Coding Beauty | [https://codingbeauty.medium.com](https://codingbeauty.medium.com) | #JS |
 | LEA VEROU | [https://lea.verou.me/](https://lea.verou.me/) | #Web |
+| Web development blog | https://www.matuzo.at/blog | #HTML #JS #CSS #web accessibility |
+| Jim Nielssen’s blog | https://blog.jim-nielsen.com/archive/ |  |
+| Read the Tea Leaves | https://nolanlawson.com/ | #web |
+| Nic chan | https://www.nicchan.me/blog/ | #CSS |
+| Alan Norbauer | https://alan.norbauer.com/ | #JS |
+| Space Ninja | https://spaceninja.com/ | #CSS #JS |
+| utilitybend | https://utilitybend.com/blog | #CSS #JS #Accessibility #UX |
 
 ## Tutorial
 
@@ -184,6 +192,7 @@
 | What is the DOM? A Behind-the-Scenes Guide | [https://www.freecodecamp.org/news/what-is-dom-in-javascript/](https://www.freecodecamp.org/news/what-is-dom-in-javascript/) |  |
 | ❗CS自学指南 | [https://csdiy.wiki/](https://csdiy.wiki/) |  |
 | Learn Git Branching | https://learngitbranching.js.org/?demo=&locale=zh_CN | 通過闖關、動畫的方式學習 Git。 |
+| ❗Brad Woods’ Digital Garden | https://garden.bradwoods.io/ | 有點像是前端開發的維基百科，不過規模沒有那麼大。文章內容都很淺顯易懂，還有動畫、插圖幫助理解。 |
 
 ## Patterns & Cheat sheet
 
@@ -256,6 +265,8 @@
 
 | 名稱 | 網址 | 備註 |
 |---|---|---|
+| Tiny helpers | https://tiny-helpers.dev/ | 為網頁開發人員提供的免費單一用途線上工具的集合 |
+| OKLCH Color Picker & Converter | https://oklch.com/ | oklch 小工具 |
 | TableConvert | https://tableconvert.com/ | 將表格以各種格式互相轉換，網站中還有很多其他轉換工具。 |
 | Is it down? | https://downforeveryoneorjustme.com/ | 用於檢查網站是對所有人關閉還是是你自己的問題。 |
 | WeOCR | https://ocr.plantree.me/ocr | 線上的 OCR 工具，支持 jpg, png, bmp, tiff, webp, etc |
